@@ -18,7 +18,8 @@ ESTRUCTURA DEL PROYECTO
 En la carpeta del proyecto se encuentra:
        
     - Carpeta csvs_limpios: donde se encuentran las dos tablas(df_prosurfers y df_surfers_ig) que hemos elaborado en formato csv.
-    - Carpeta SQL: Tenemos el acceso a las dos tablas importadas a MySQL y el diagrama ERR.
+    - Carpeta SQL: Contiene el acceso a las dos tablas importadas a MySQL y el diagrama ERR.
+    - Carpeta img: Contiene 2 imagenes de las querys de selección de las tablas.
         - csv de Kaggle (de donde se ha importado la tabla de  los surfistas que obtuvieron más puntos wsl en el 2022)  
         - Las 2 Notebooks de Visual Studio Code, en las que se han importado los datos, limpiado, transformado y por ultimo pasado a csv.
 
