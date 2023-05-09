@@ -31,7 +31,7 @@ PROCESO ETL
 
     En primer lugar se han buscado las fuentes de las que extraer los datos. En este caso se ha tomado un archivo, con la información de los surfistas por puntos obtenidos en competición(wsl), de Kaggle. La segunda fuente ha sido la pagina oficial de la competición, WSL.com. Por último, para obtener datos sobre el instagram de los surfistas se ha tomado como fuente un blog que rankea a los surfistas con mayor influencia, https://blog.feedspot.com/surfing_instagram_influencers/.
 
-2)Extracción de datos:
+2) Extracción de datos:
     Para la extracción de los datos se han empleado dos métodos, el primero ha sido la descarga directa del archivo de Kaggle en formato csv, y para las otras dos fuentes se ha empleado el método de scrapeo mediante selenium.
 
 3) Limpieza y transformación:
