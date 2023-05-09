@@ -1,5 +1,6 @@
 Project_ETL 
 
+![Captura](https://github.com/Lorensou/-w4-project_ETL/blob/main/img/Captura%20de%20pantalla%202023-05-09%20091502.png)
 
 OBJETIVO DEL TRABAJO:
 
