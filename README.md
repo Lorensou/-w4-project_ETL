@@ -1,8 +1,8 @@
-Project_ETL 
+# Project_ETL 
 
 ![Captura](https://github.com/Lorensou/-w4-project_ETL/blob/main/img/Captura%20de%20pantalla%202023-05-09%20091502.png)
 
-OBJETIVO DEL TRABAJO:
+# OBJETIVO DEL TRABAJO:
 
 El principal objetivo de este trabajo es encontrar el surfista adecuado para promover una campaña publicitaria en instagram por parte de una compañia multinacional de gafas de sol.
 
@@ -14,7 +14,7 @@ Requerimientos por parte de la compañía:
 Una vez esta claro que datos quiere la empresa procedemos a realizar la búsqueda, extracción, transformación y carga de los datos.
 
 
-ESTRUCTURA DEL PROYECTO
+# ESTRUCTURA DEL PROYECTO
 
 En la carpeta del proyecto se encuentra:
        
@@ -25,7 +25,7 @@ En la carpeta del proyecto se encuentra:
         - Las 2 Notebooks de Visual Studio Code, en las que se han importado los datos, limpiado, transformado y por ultimo pasado a csv.
 
 
-PROCESO ETL
+# PROCESO ETL
 
 1) Busqueda de datos: 
 
